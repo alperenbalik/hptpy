@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: hptpy
+Version: 0.0.1
+Summary: Hypothesis Testing Python Library
+Home-page: https://github.com/alperenbalik/hptpy
+Author: Alperen Balık
+Author-email: alperenbalik@outlook.com
+License: UNKNOWN
+Description: # hptpy
+        Hypothesis Testing Python Library
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
