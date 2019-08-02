@@ -1,0 +1,4 @@
+# Needed packages/versions
+scipy>=0.9.0
+numpy==1.15.4
+statsmodels>=0.9.0
