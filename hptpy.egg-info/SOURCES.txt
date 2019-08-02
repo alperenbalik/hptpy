@@ -1,0 +1,10 @@
+README.md
+setup.py
+hptpy/__init__.py
+hptpy/anova.py
+hptpy/t_tests.py
+hptpy.egg-info/PKG-INFO
+hptpy.egg-info/SOURCES.txt
+hptpy.egg-info/dependency_links.txt
+hptpy.egg-info/requires.txt
+hptpy.egg-info/top_level.txt
