@@ -8,3 +8,6 @@ hptpy.egg-info/SOURCES.txt
 hptpy.egg-info/dependency_links.txt
 hptpy.egg-info/requires.txt
 hptpy.egg-info/top_level.txt
+hptpy/midcal/__init__.py
+hptpy/midcal/midcal_anova.py
+hptpy/midcal/midcal_ttest.py
