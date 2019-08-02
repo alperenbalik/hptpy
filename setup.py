@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(name='hptpy',
-      version='0.0.1',
-      packages=["hptpy"],
+      version='0.0.2',
+      packages=["hptpy", "hptpy.midcal"],
       author="Alperen Balık",
       author_email="alperenbalik@outlook.com",
       description="Hypothesis Testing Python Library",
